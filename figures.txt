@@ -1,0 +1,2 @@
+Square: side = 3, area = 9, perimeter = 12
+Circle: radius = 1.5, area = 7.06858, circumference = 9.42478
